@@ -1,0 +1,9 @@
+.TableContainer {
+    height:100%
+}
+.TableContainerRow  {
+    height:100%
+}
+.TableContainerRow div:nth-child(1)  {
+    width:100%
+}
